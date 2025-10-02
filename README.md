@@ -1,2 +1,1 @@
-# bot-landing-page1
-مشروع من تصميم Abu Yazan – تجربة رقمية فريدة تجمع الفن والتفاعل
+![Adu Yazan – معاينة سينمائية](assets/adu-yazan-preview.png)
