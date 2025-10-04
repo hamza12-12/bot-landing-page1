@@ -1,1 +1,0 @@
-![Adu Yazan – معاينة سينمائية](assets/adu-yazan-preview.png)
